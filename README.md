@@ -1,2 +1,2 @@
 # bsdiff
-Bsdiff library
+适配过的bsdiff库，可直接用NDK编译。
